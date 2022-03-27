@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d617621-d0f0-a881-4efd-33c87a451173
 resourcetype: Document
 title: MIT16_S498f19_Pset7
 uid: ef136e69-ae1a-b042-447b-42074fef2c64
