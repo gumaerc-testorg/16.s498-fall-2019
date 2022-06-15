@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019/ed057321b3a2ceba2c424dbc4c013208_MIT16_S498f19_Pset6.pdf
+file: /courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019/ed057321b3a2ceba2c424dbc4c013208_MIT16_S498f19_Pset6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
