@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the class schedule for the MIT class 16.S498 Risk
+  Aware and Robust Nonlinear Planning of Fall 2019.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2bb73b35-61ad-b6d4-005d-0d4efe33a493
 ---
