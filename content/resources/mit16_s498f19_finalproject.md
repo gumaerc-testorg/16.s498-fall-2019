@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019/11c4cf5ed4306188c1fdfbb310b2074e_MIT16_S498f19_FinalProject.pdf
+file: /ol-ocw-studio-app/courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019/11c4cf5ed4306188c1fdfbb310b2074e_MIT16_S498f19_FinalProject.pdf
 file_size: 232339
 file_type: application/pdf
 learning_resource_types:
